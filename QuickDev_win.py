@@ -134,5 +134,5 @@ while True:
         time.sleep(2)
         raise SystemExit()
 
-else:
-    print("ERROR")
+    else:
+        print("ERROR")
